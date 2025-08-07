@@ -1,3 +1,5 @@
+Can Download CSV From :https://finance.yahoo.com/quote/KO/history/
+
 📘 README: Coca-Cola Stock Price Analysis
 📌 Project Title
 Coca-Cola Close Price Trend Analysis (2020–2025)
